@@ -52,17 +52,17 @@ Para ejecutar todas las validaciones sobre el dataset:
 python run_quality_check.py
 
 
-Resultado:
+Resultado:                                                               
 
-Se genera un archivo Excel con el reporte de calidad de datos
+Se genera un archivo Excel con el reporte de calidad de datos                                        
 
-Cada validación indica:
-    Resultado (Aprobado / Fallido)
-    Número de incidencias
-    Observaciones automáticas
+Cada validación indica:                                                                 
+    Resultado (Aprobado / Fallido)                                                           
+    Número de incidencias                                                        
+    Observaciones automáticas                                   
 
 
 👤 Autor
-Pedro Javier Martínez Daza
-Data & QA Automation Engineer
-Proyecto desarrollado como parte de una prueba técnica de aseguramiento de calidad de datos.
+Pedro Javier Martínez Daza                                                                                   
+Data & QA Automation Engineer                                                                                             
+Proyecto desarrollado como parte de una prueba técnica de aseguramiento de calidad de datos.                                
