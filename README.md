@@ -1,4 +1,4 @@
-📊 Data Quality Framework – Validación de Calidad de Datos
+📊 Data Quality Framework – Validación de Calidad de Datos                                                                                                                                                     
 📌 Descripción general
 
 Este proyecto implementa un framework de validación de calidad de datos en Python, orientado a evaluar la integridad, consistencia y confiabilidad de un dataset de ventas (ventas.csv).
