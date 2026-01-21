@@ -22,13 +22,13 @@ Garantizar que los datos utilizados en procesos analíticos y de negocio cumplan
 
 ID	        Caso de Prueba	                Descripción
 -------------------------------------------------------------------------------------
-CT00	    |--|Columnas obligatorias    	       |--|Validar presencia de columnas requeridas                                                
-CT01	    |--|Valores nulos            	       |--|Validar ausencia de valores nulos                                            
-CT02	    |--|Tipos numéricos          	       |--|Validar campos numéricos                                         
-CT03	    |--|Consistencia matemática  	       |--|Precio x cantidad = total                               
-CT04	    |--|Fechas válidas           	       |--|Validar formato y validez de fechas                           
-CT05	    |--|Cantidad positiva         	       |--|Validar cantidad vendida>0                               
-CT06	    |--|Categorías permitidas        	   |--|Validar categorías válidas                           
+CT00	    |--|Columnas obligatorias |------| Validar presencia de columnas requeridas                                                
+CT01	    |--|Valores nulos |-------------| Validar ausencia de valores nulos                                            
+CT02	    |--|Tipos numéricos |-----------| Validar campos numéricos                                         
+CT03	    |--|Consistencia matemática |---| Precio x cantidad = total                               
+CT04	    |--|Fechas válidas |------------| Validar formato y validez de fechas                           
+CT05	    |--|Cantidad positiva |---------| Validar cantidad vendida>0                               
+CT06	    |--|Categorías permitidas |-----| Validar categorías válidas                           
 
 
 
@@ -57,9 +57,9 @@ Resultado:
 Se genera un archivo Excel con el reporte de calidad de datos                                        
 
 Cada validación indica:                                                                 
-    Resultado (Aprobado / Fallido)                                                           
-    Número de incidencias                                                        
-    Observaciones automáticas                                   
+    --Resultado (Aprobado / Fallido)                                                           
+    ----Número de incidencias                                                        
+    ----Observaciones automáticas                                   
 
 
 👤 Autor
